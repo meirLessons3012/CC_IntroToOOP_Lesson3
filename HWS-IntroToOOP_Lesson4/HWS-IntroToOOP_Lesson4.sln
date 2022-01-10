@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWS-IntroToOOP_Lesson4", "HWS-IntroToOOP_Lesson4\HWS-IntroToOOP_Lesson4.csproj", "{BD1345B0-1C98-43E1-81E4-AEAA767E3E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1345B0-1C98-43E1-81E4-AEAA767E3E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1345B0-1C98-43E1-81E4-AEAA767E3E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1345B0-1C98-43E1-81E4-AEAA767E3E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1345B0-1C98-43E1-81E4-AEAA767E3E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D9A0A6E-9E55-4FBA-A311-1786653E34C0}
+	EndGlobalSection
+EndGlobal
